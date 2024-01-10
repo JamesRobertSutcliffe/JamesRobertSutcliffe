@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jsutcliffe1991@gmail.com**
 
-I bring a unique blend of design, communication, and problem-solving skills to software development enhanced by extensive study, self-guided project development and commercial experience. I am proficient in frontend, backend and project deployment with hands-on experience developing projects in team git based workflows. Commercially , I’ve contributed to developing a media content management system. Furthering my technical expertise, I completed a Front-End Web Development certificate from Trilogy Skills Bootcamp in 2023, solidifying my foundational skills and collaborative project experience for a career in tech. 
+I bring a unique blend of design, communication, and problem-solving skills to software development enhanced by extensive study, self-guided project development and commercial experience. I am proficient in frontend, backend and project deployment with hands-on experience developing projects in team git based workflows. I completed a Front-End Web Development certificate from Trilogy Skills Bootcamp in 2023, solidifying my foundational skills and collaborative project experience for a career in tech. 
 
 A decade long career in media production has bolstered my ability to pick up new skills / technologies quickly and allow me to consistently develop my programming skills, with a particular interest in AI / LLMs by utilising the OpenAI API more recently.
 
