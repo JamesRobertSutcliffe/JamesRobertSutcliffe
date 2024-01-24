@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jsutcliffe1991@gmail.com**
 
-I bring a unique blend of design, communication, and problem-solving skills to software development enhanced by extensive study, self-guided project development and commercial experience. I am proficient in frontend, backend and project deployment with hands-on experience developing projects in team git based workflows. I completed a Front-End Web Development certificate from Trilogy Skills Bootcamp in 2023, solidifying my foundational skills and collaborative project experience. 
+I am a enthusiastic software developer who is currently developing skills as part of the the Founders and Coders Software Development Foundation. I am proficient at building web apps in HTML, CSS, Javascript (ES6) and a variety of other frameworks as well as utilising GIT based workflows. I offer a blend of design, communication, and problem-solving skills to software development enhanced by extensive study, self-guided project development and commercial experience. I am proficient in frontend, backend and project deployment with hands-on experience developing projects in git based teams workflows. I completed a Front-End Web Development certificate from Trilogy Skills Bootcamp in 2023, bolstering my foundational skills and collaborative project experience. 
 
 A decade long career in media production has bolstered my ability to pick up new skills / technologies quickly and allowed me to consistently develop my programming skills. Recently I've taken an interest in AI / LLMs by utilising the OpenAI API as well as modern JS frameworks (next.js / react) and databases (SQL / Postgres).
 
